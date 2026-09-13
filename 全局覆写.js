@@ -371,7 +371,7 @@ const serviceConfigs = [
                 'path-in-bundle': 'geo/geosite/category-ai-!cn.mrs',
             },
         },
-        icon: 'https://cdn.jsdelivr.net/gh/donut006/icon/icon/chatgpt.svg',
+        icon: 'https://ghfast.top/https://github.com/donut006/icon/blob/main/icon/chatgpt.svg',
         rules: ['RULE-SET,site-category-ai-!cn,AI 服务'],
     },
     {
